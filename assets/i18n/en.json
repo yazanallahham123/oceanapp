@@ -1,0 +1,58 @@
+{"labels" : {
+  "price": "Price",
+  "finalValue": "Final Value",
+  "select": "Language",
+  "note": "Note",
+  "orderNumber": "Order NO.",
+  "barcode": "Barcode",
+  "color": "Color",
+  "size": "Size",
+  "branches": "Branches",
+  "enterText": "Please enter text",
+  "regularPrice": "Regular Price",
+  "salePrice": "Sale Price",
+  "blno": "#",
+  "branch": "Branch",
+  "date": "Date",
+  "totalQty": "QTY.",
+  "qty": "QTY.",
+  "enterYourName": "Please enter your full name"
+},
+"buttons": {
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "fromBranch": "From Branch",
+  "toBranch": "To Branch",
+  "save": "Save",
+  "generate": "Generate",
+  "fromDate": "From Date",
+  "toDate": "To Date",
+  "receive": "Receive",
+  "getTransfers": "Get Transfers",
+  "branch": "Branch",
+  "showDetails": "Details"
+},
+  "errors": {
+    "selectToBranch": "Please specify (To Branch)",
+    "selectFromBranch": "Please specify (From Branch)",
+    "addItems": "Please add items",
+    "noItemsFound": "No items found...Please add items",
+    "noBranchesFound": "No branches found!!",
+    "setDateFilter": "Please specify period (From date and To date)",
+    "noSalesFound": "No sales found!!",
+    "noImage": "NO PICTURE",
+    "couldNotMakeTransfer": "Ops...Could not make transfer...Something wrong happened please try again or contact developer",
+    "couldNotGetBranches": "Ops...Could not get branches...Something wrong happened please try again or contact developer",
+    "couldNotGetSales": "Ops...Could not get sales...Something wrong happened please try again or contact developer",
+    "couldNotFindItem": "Ops...Could not find item...Something wrong happened please try again or contact developer",
+    "couldNotGetReceivedTransfers": "Ops...Could not get received transfers...Something wrong happened please try again or contact developer",
+    "couldNotGetTransferDetails": "Ops...Could not get transfer details...Something wrong happened please try again or contact developer",
+    "noTransfersToReceive": "No transfers to receive",
+    "couldNotReceiveTransfer": "Could not receive transfer",
+    "selectBranch": "Select branch"
+  },
+  "messages": {
+    "transferIsSuccess": "Violaaaaaaa....Transfer is successfully created",
+    "settingsIsSaved": "Successfully Saved"
+  }
+}

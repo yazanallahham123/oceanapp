@@ -1,0 +1,58 @@
+{"labels" : {
+  "price": "السعر",
+  "finalValue": "القيمة الاجمالية",
+  "select": "اللغة",
+  "note": "ملاحظة",
+  "orderNumber": "رقم الطلبية",
+  "barcode": "الباركود",
+  "color": "اللون",
+  "size": "القياس",
+  "branches": "الفروع",
+  "enterText": "يرجى ادخال النص",
+  "regularPrice": "السعر الاساسي",
+  "salePrice": "سعر التنزيلات",
+  "blno": "#",
+  "branch": "الفرع",
+  "date": "التاريخ",
+  "totalQty": "الكمية",
+  "qty": "الكمية",
+  "enterYourName": "يرجى ادخال اسمك الكامل"
+},
+  "buttons": {
+    "delete": "حذف",
+    "cancel": "خروج",
+    "fromBranch": "من فرع",
+    "toBranch": "الى فرع",
+    "save": "حفظ",
+    "generate": "جلب البيانات",
+    "fromDate": "من تاريخ",
+    "toDate": "الى تاريخ",
+    "receive": "استلام",
+    "getTransfers": "جلب المناقلات",
+    "branch": "الفرع",
+    "showDetails": "التفاصيل"
+  },
+  "errors": {
+    "selectToBranch": "يرجى تحديد من اي فرع",
+    "selectFromBranch": "يرجى تحديد الى اي فرع",
+    "addItems": "يرجى اضافة مواد",
+    "noItemsFound": "لا يوجد مواد...يرجى اضافة مواد",
+    "noBranchesFound": "لم استطع ايجاد اي فروع",
+    "setDateFilter": "يرجى تحديد الفترة من تاريخ الى تاريخ",
+    "noSalesFound": "لا يوجد مبيعات",
+    "noImage": "الصورة غير متوفرة",
+    "couldNotMakeTransfer": "Ops...Could not make transfer...Something wrong happened please try again or contact developer",
+    "couldNotGetBranches": "Ops...Could not get branches...Something wrong happened please try again or contact developer",
+    "couldNotGetSales": "Ops...Could not get sales...Something wrong happened please try again or contact developer",
+    "couldNotFindItem": "Ops...Could not find item...Something wrong happened please try again or contact developer",
+    "couldNotGetReceivedTransfers": "Ops...Could not get received transfers...Something wrong happened please try again or contact developer",
+    "couldNotGetTransferDetails": "Ops...Could not get transfer details...Something wrong happened please try again or contact developer",
+    "noTransfersToReceive": "لا يوجد مناقلات لاستلامها",
+    "couldNotReceiveTransfer": "لم استطع استلام المناقلة",
+    "selectBranch": "يرجى اختيار الفرع"
+  },
+  "messages": {
+    "transferIsSuccess": "تم عمل المناقلة بنجاح",
+    "settingsIsSaved": "تم الحفظ بنجاح"
+  }
+}
